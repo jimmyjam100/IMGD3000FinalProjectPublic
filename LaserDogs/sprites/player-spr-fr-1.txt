@@ -1,0 +1,22 @@
+<HEADER>
+frames 2
+width 9
+height 4
+color yellow
+slowdown 4
+</HEADER>
+<BODY>
+     __  
+(___()'`;
+/,    /` 
+\\"--\\  
+end
+     __  
+\___()'`;
+/,    /` 
+\\"--\\  
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

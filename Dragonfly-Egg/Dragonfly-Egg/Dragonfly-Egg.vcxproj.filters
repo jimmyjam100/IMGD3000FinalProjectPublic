@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="LogManager.obj" />
+    <Object Include="SpriteResourceManager.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Attack.cpp" />
+    <ClCompile Include="Box.cpp" />
+    <ClCompile Include="Clock.cpp" />
+    <ClCompile Include="ChargeShot.cpp" />
+    <ClCompile Include="DisplayManager.cpp" />
+    <ClCompile Include="Event.cpp" />
+    <ClCompile Include="EventCollision.cpp" />
+    <ClCompile Include="EventGamepad.cpp" />
+    <ClCompile Include="EventKeyboard.cpp" />
+    <ClCompile Include="EventMouse.cpp" />
+    <ClCompile Include="EventOut.cpp" />
+    <ClCompile Include="EventStep.cpp" />
+    <ClCompile Include="EventView.cpp" />
+    <ClCompile Include="Floor.cpp" />
+    <ClCompile Include="Frame.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="Laser.cpp" />
+    <ClCompile Include="Manager.cpp" />
+    <ClCompile Include="Missile.cpp" />
+    <ClCompile Include="Moon.cpp" />
+    <ClCompile Include="Music.cpp" />
+    <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Projectile.cpp" />
+    <ClCompile Include="Reflector.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="Star.cpp" />
+    <ClCompile Include="TestObject.cpp" />
+    <ClCompile Include="TestObject2.cpp" />
+    <ClCompile Include="Vector.cpp" />
+    <ClCompile Include="ViewObject.cpp" />
+    <ClCompile Include="WorldManager.cpp" />
+    <ClCompile Include="Logo.cpp" />
+    <ClCompile Include="GameWin.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Attack.h" />
+    <ClInclude Include="Box.h" />
+    <ClInclude Include="Clock.h" />
+    <ClInclude Include="Color.h" />
+    <ClInclude Include="ChargeShot.h" />
+    <ClInclude Include="DisplayManager.h" />
+    <ClInclude Include="Event.h" />
+    <ClInclude Include="EventCollision.h" />
+    <ClInclude Include="EventGamepad.h" />
+    <ClInclude Include="EventKeyboard.h" />
+    <ClInclude Include="EventMouse.h" />
+    <ClInclude Include="EventOut.h" />
+    <ClInclude Include="EventStep.h" />
+    <ClInclude Include="EventView.h" />
+    <ClInclude Include="Floor.h" />
+    <ClInclude Include="Frame.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="Laser.h" />
+    <ClInclude Include="LogManager.h" />
+    <ClInclude Include="Manager.h" />
+    <ClInclude Include="Missile.h" />
+    <ClInclude Include="Moon.h" />
+    <ClInclude Include="Music.h" />
+    <ClInclude Include="Object.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Projectile.h" />
+    <ClInclude Include="Reflector.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="Sound.h" />
+    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="SpriteResourceManager.h" />
+    <ClInclude Include="Star.h" />
+    <ClInclude Include="TestObject.h" />
+    <ClInclude Include="TestObject2.h" />
+    <ClInclude Include="Vector.h" />
+    <ClInclude Include="ViewObject.h" />
+    <ClInclude Include="WorldManager.h" />
+    <ClInclude Include="MatchStart.h" />
+    <ClInclude Include="Logo.h" />
+    <ClInclude Include="GameWin.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="sprites\bad-spr.txt" />
+    <Text Include="sprites\good-spr.txt" />
+    <Text Include="sprites\large-shot-spr.txt" />
+    <Text Include="sprites\laser-spr.txt" />
+    <Text Include="sprites\medium-shot-spr.txt" />
+    <Text Include="sprites\player-spr-fl.txt" />
+    <Text Include="sprites\player-spr-fr.txt" />
+    <Text Include="sprites\small-shot-spr.txt" />
+    <Text Include="sprites\missile-spr-fl.txt" />
+    <Text Include="sprites\missile-spr-fr.txt" />
+    <Text Include="sprites\player-spr-fl-hs.txt" />
+    <Text Include="sprites\player-spr-fr-hs.txt" />
+  </ItemGroup>
+</Project>

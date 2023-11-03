@@ -1,0 +1,28 @@
+<HEADER>
+frames 1
+width 27
+height 15
+color magenta
+slowdown 4
+</HEADER>
+<BODY>
+         ___---___         
+      .--         --.      
+    ./   ()      .-. \.    
+   /   o    .   (   )  \   
+  / .            '-'    \  
+ | ()    .  O         .  | 
+|                         |
+|    o           ()       |
+|       .--.          O   |
+ | .   |    |            | 
+  \    `.__.'    o   .  /  
+   \                   /   
+    `\  o    ()      /'    
+      `--___   ___--'      
+            ---            
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

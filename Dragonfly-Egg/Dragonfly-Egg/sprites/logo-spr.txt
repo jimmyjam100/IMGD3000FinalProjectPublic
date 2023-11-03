@@ -1,0 +1,48 @@
+<HEADER>
+frames 3
+width 83
+height 11
+color green
+slowdown 18
+</HEADER>
+<BODY>
+ _        _______  _______  _______  _______    ______   _______  _______  _______ 
+( \      (  ___  )(  ____ \(  ____ \(  ____ )  (  __  \ (  ___  )(  ____ \(  ____ \
+| (      | (   ) || (    \/| (    \/| (    )|  | (  \  )| (   ) || (    \/| (    \/
+| |      | (___) || (_____ | (__    | (____)|  | |   ) || |   | || |      | (_____ 
+| |      |  ___  |(_____  )|  __)   |     __)  | |   | || |   | || | ____ (_____  )
+| |      | (   ) |      ) || (      | (\ (     | |   ) || |   | || | \_  )      ) |
+| (____/\| )   ( |/\____) || (____/\| ) \ \__  | (__/  )| (___) || (___) |/\____) |
+(_______/|/     \|\_______)(_______/|/   \__/  (______/ (_______)(_______)\_______)
+                press START to start/stop. press SELECT to exit/taunt.             
+            press X for laser. press Y for missle. press B for charge shot.        
+                 press A for reflector. move with left joysitck.                   
+end
+ _        _______  _______  _______  _______    ______   _______  _______  _______ 
+( \      (  ___  )(  ____ \(  ____ \(  ____ )  (  __  \ (  ___  )(  ____ \(  ____ \
+| (      | (   ) || (    \/| (    \/| (    )|  | (  \  )| (   ) || (    \/| (    \/
+| |      | (___) || (_____ | (__    | (____)|  | |   ) || |   | || |      | (_____ 
+| |      |  ___  |(_____  )|  __)   |     __)  | |   | || |   | || | ____ (_____  )
+| |      | (   ) |      ) || (      | (\ (     | |   ) || |   | || | \_  )      ) |
+| (____/\| )   ( |/\____) || (____/\| ) \ \__  | (__/  )| (___) || (___) |/\____) |
+(_______/|/     \|\_______)(_______/|/   \__/  (______/ (_______)(_______)\_______)
+                press START to start/stop. press SELECT to exit/taunt.             
+            press X for laser. press Y for missle. press B for charge shot.        
+                 press A for reflector. move with left joysitck.                   
+end
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                                                                                   
+                press START to start/stop. press SELECT to exit/taunt.             
+            press X for laser. press Y for missle. press B for charge shot.        
+                 press A for reflector. move with left joysitck.                   
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

@@ -1,0 +1,22 @@
+<HEADER>
+frames 2
+width 8
+height 4
+color cyan
+slowdown 4
+</HEADER>
+<BODY>
+     /';
+   ()`/ 
+  /_ /  
+\/__ \\ 
+end
+     /';
+   ()`/ 
+  /_ /  
+(/__ \\ 
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>

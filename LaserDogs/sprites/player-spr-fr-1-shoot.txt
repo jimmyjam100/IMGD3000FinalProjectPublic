@@ -1,0 +1,17 @@
+<HEADER>
+frames 1
+width 9
+height 4
+color yellow
+slowdown 4
+</HEADER>
+<BODY>
+     __  
+\___()'`'
+/,    /"'
+\\"--\\  
+end
+</BODY>
+<FOOTER>
+version 1
+</FOOTER>
